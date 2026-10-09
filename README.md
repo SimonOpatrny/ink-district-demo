@@ -1,1 +1,1 @@
-# ink-district-demo
+Tetovací studio
